@@ -18,3 +18,4 @@ python3 extract.py
 
 ### 结果将写入文件 key_word_result.txt
 
+### 数据量少时无需借助ES数据库，可以直接计算，请见[通过tfidf抽取文本关键字](https://github.com/dataaug/extract_keyword_tfidf/blob/main/README.md)
